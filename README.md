@@ -144,7 +144,7 @@ NDI® runtime and SDK are provided by **Vizrt**, included according to [NDI SDK 
 
 ## 📫 Contact
 
-- LinkedIn: <your-linkedin>
-- Email: <your-email>
+- LinkedIn: linkedin.com/in/jose-manuel-techandbiz
+- Email: mtovar@techandbiz.biz
 
 ⭐ Open to collaborations in **high-performance C++ backend, low-level systems
