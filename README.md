@@ -39,7 +39,7 @@
 
 Media Scheduler uses the **Facade pattern** to decouple the NDI SDK from the core engine.
 
-![Media Scheduler Pipeline](docs/media_scheduler_pipeline.svg)
+![Media Scheduler Pipeline](docs/media_scheduler_pipeline.png)
 
 **Modules at a glance:**
 
