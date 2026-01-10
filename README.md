@@ -64,17 +64,6 @@ Media Scheduler uses the **Facade pattern** to decouple the NDI SDK from the cor
 - Qt 5/6 installed (MinGW version recommended)
 - MinGW compiler installed (project is compiled with MinGW for portability)
 
-### Build from source (optional)
-
-```powershell
-mkdir build
-cd build
-cmake .. -G "MinGW Makefiles"
-mingw32-make -j
-```
-
-Executable will be in the `Release` folder.
-
 ### Using the installer (recommended)
 
 - Download the installer from **GitHub Releases**: `Media Scheduler-1.0-beta1-Setup.exe`
